@@ -64,3 +64,4 @@
 ### Предварительные требования
 - **Java версия**: JDK 8 или выше
 - **Веб версия**: Любой современный браузер
+<img width="1402" height="837" alt="image" src="https://github.com/user-attachments/assets/f6580271-e151-44a6-8b9a-107e53484ad7" />
